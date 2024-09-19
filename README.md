@@ -1,5 +1,3 @@
-Here's an updated version of your GitHub profile README with the new details:
-
 ---
 
 ## Hi there 👋, I'm **Riley Jones**!
