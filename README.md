@@ -21,7 +21,7 @@ I'm a graduate from the University of Sydney, currently pursuing a **Bachelor of
   - Building interactive **web apps** to diversify my developer skillset
 
 - 💼 **Seeking Opportunities**:  
-  - I'm actively looking for internships and real-world experience in tech companies to expand my knowledge and contribute to innovative projects.
+  - I'm actively looking for work opportunities and real-world experience in tech companies to expand my knowledge and contribute to innovative projects.
 
 ---
 
