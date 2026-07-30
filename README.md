@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm **Riley Jones**!
 
-I'm an undergraduate at the University of Sydney, currently pursuing a **Bachelor of Advanced Computing** (majoring in Computer Science) and a **Bachelor of Science** (majoring in Physics). My passion lies in the intersection of **computing and science**, with a focus on **machine learning** and its potential to solve complex scientific problems.
+I'm a graduate from the University of Sydney, currently pursuing a **Bachelor of Advanced Computing** (majoring in Computer Science) and a **Bachelor of Science** (majoring in Physics). My passion lies in the intersection of **computing and science**, with a focus on **machine learning** and its potential to solve complex scientific problems.
 
 ### A Bit About Me:
 
